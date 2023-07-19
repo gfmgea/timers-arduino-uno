@@ -7,27 +7,20 @@ I started my tech career in graduation learning C, C++ and C# languages aimed at
 And it makes me happy \o/
 
 
-### connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/gustavo-mastrocollo/) 
-
-[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord&logoColor=000)](https://www.discord.com/in/gea1904/)
-
-
 ### markup languages
 
-![Markdown](https://img.shields.io/badge/Markdown-FFF?style=for-the-badge&logo=markdown&logoColor=000)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 
 ### programming languages
 
-![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c&logoColor=000)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
-![C++](https://img.shields.io/badge/C%2B%2B-FFF?style=for-the-badge&logo=c%2B%2B&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
-![C#](https://img.shields.io/badge/C%23-FFF?style=for-the-badge&logo=c-sharp&logoColor=000)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
-![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python&logoColor=000)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
 ### my stats and streak on GitHub

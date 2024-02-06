@@ -4,6 +4,7 @@
 I'm 22y and a data science programmer :)
 
 I started my tech career in graduation learning C, C++ and C# languages aimed at microcontroller applications (such as Arduino and PIC). From then on, I discovered this facility in logic and programming, which is where my interest in the area grew. Putting together this facility, my interest in data analysis and my great analytical capacity, I'm growing professionally and intellectually in Data Science, studying postgraduate studies in this area, focusing on data architecture, Python language, data analysis, Cloud, Fog and Edge Computing, AI models and machine learning, statistics for data science, R language, big data, BI.
+
 And it makes me happy \o/
 
 
@@ -21,6 +22,8 @@ And it makes me happy \o/
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 
 
 ### my stats and streak on GitHub
